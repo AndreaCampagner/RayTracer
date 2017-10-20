@@ -1,5 +1,5 @@
-#Ray Tracer
-##Description
+# Ray Tracer
+## Description
 This project consists of a StochasticRay Tracer implemented in C++, it was implemented as a project for an
  exam in Computer Graphics.
 The project has been implemented with more focus towards readibility and simplicity than towards performance,
@@ -18,6 +18,6 @@ It supports various feature:
 Note however that most features (such as Anti-aliasing, depth of field or soft shadows) impact on performances.
 The repository also contains some example images that were produced using the Ray Tracer.
 
-##Requirements
+## Requirements
 In order to compile and execute the project you need the glm [link](https://glm.g-truc.net/0.9.8/index.html)
 math library.
